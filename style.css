@@ -1,0 +1,41 @@
+* {
+    text-align: center;
+}
+
+h3 {
+    color: green;
+}
+
+body {
+    margin: 0 20%;
+}
+
+img {
+    width: 600px;
+}
+
+body {
+    background-color: grey;
+}
+
+span {
+    font-weight: 900;
+}
+
+img {
+    border: 1px solid orangered;
+}
+
+p h5 {
+    text-decoration: underline;
+    color: grey;
+}
+
+div {
+    color: black;
+    text-decoration: underline;
+}
+
+ul {
+    width: 100%;
+}
